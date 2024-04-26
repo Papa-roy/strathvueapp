@@ -1,5 +1,8 @@
 # StrathVueApp
 
+Add description on the projects
+This Application allows students in a university to view the different courses, events and services offered. The app allows students to register for a course and view their programmes.
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
@@ -27,3 +30,7 @@ npm run dev
 ```sh
 npm run build
 ```
+## Screenshot of StrathVueApp
+![download 2](https://github.com/Papa-roy/strathvueapp/assets/159112736/5494ab77-0998-441c-8ed6-f24cdb81273f)
+
+![claudio-schwarz-k39RGHmLoV8-unsplash](https://github.com/Papa-roy/strathvueapp/assets/159112736/6edf56a6-0236-4809-aff7-f8fa1f53df70)
